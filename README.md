@@ -67,7 +67,7 @@ To use, add this into your hosts:
 
 OPEN THE .sln file in order to begin without further issues
 If you just want to use the growbrew proxy program it self, without doing any modifications or any coding,
-the .exe file and binaries are currently located at https://github.com/playingoDEERUX/growbrewproxy/releases/
+the .exe file and binaries are currently located at https://github.com/cuekYT/GTproxy/releases
 
 Click Start HTTP server and Start Proxy and you can start.
 ---------------------------------------------------------------
@@ -87,11 +87,7 @@ Other versions may work too, they are not tested. Credits to moien007 for ENet.M
 
 
 current version: V2
-# MADE BY DEERUX (quit) AND iProgramInCpp - YouTube (me): https://www.youtube.com/channel/UCi88IU-vDvVr6Tay9CT20Gw?view_as=subscriber
-
-(IMPORTANT: THIS DEERUX IS A FAKER/IMPERSONATOR): https://www.youtube.com/channel/UCjUmKOedwc7gDa8Fl9E5HMA If you have subbed to him, unsubscribe now and this is my real channel: https://www.youtube.com/channel/UCi88IU-vDvVr6Tay9CT20Gw?view_as=subscriber
-
-Subscribe to support me :)
+# MADE BY CUEK YT
 
 Enjoy the **ultimate** haXing in Growtopia :) Star this if you liked my project, thanks!
 
